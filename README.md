@@ -22,12 +22,6 @@ npx get-it-done-cc@latest
 
 **Works on Mac, Windows, and Linux.**
 
-<br>
-
-![GID Install](assets/terminal.svg)
-
-<br>
-
 *"If you know clearly what you want, this WILL build it for you. No bs."*
 
 *"I've done SpecKit, OpenSpec and Taskmaster — this has produced the best results for me."*
